@@ -1,0 +1,359 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "98443197"
+    },
+    {
+      "id": "5757",
+      "cityName": "Hyderabad",
+      "country": "India",
+      "date": "2024-02-20T12:59:00.051Z",
+      "notes": "",
+      "position": {
+        "lat": "17.424028633877892",
+        "lng": "78.51928710937501"
+      }
+    },
+    {
+      "id": "90af",
+      "cityName": "Azuaga",
+      "country": "Spain",
+      "date": "2024-02-22T11:41:12.216Z",
+      "notes": "",
+      "position": {
+        "lat": "38.22091976683121",
+        "lng": "-5.756835937500001"
+      }
+    },
+    {
+      "id": "19aa",
+      "cityName": "Sarria",
+      "country": "Spain",
+      "date": "2024-02-22T11:41:12.216Z",
+      "notes": "",
+      "position": {
+        "lat": "42.79540065303723",
+        "lng": "-7.338867187500001"
+      }
+    },
+    {
+      "id": "929b",
+      "cityName": "Sarria",
+      "country": "Spain",
+      "date": "2024-02-22T11:41:12.216Z",
+      "notes": "",
+      "position": {
+        "lat": "42.79540065303723",
+        "lng": "-7.338867187500001"
+      }
+    },
+    {
+      "id": "2201",
+      "cityName": "Sarria",
+      "country": "Spain",
+      "date": "2024-02-22T11:41:12.216Z",
+      "notes": "",
+      "position": {
+        "lat": "42.79540065303723",
+        "lng": "-7.338867187500001"
+      }
+    },
+    {
+      "id": "cf93",
+      "cityName": "Sarria",
+      "country": "Spain",
+      "date": "2024-02-22T11:41:12.216Z",
+      "notes": "",
+      "position": {
+        "lat": "42.79540065303723",
+        "lng": "-7.338867187500001"
+      }
+    },
+    {
+      "id": "d36d",
+      "cityName": "Sarria",
+      "country": "Spain",
+      "date": "2024-02-22T11:41:12.216Z",
+      "notes": "",
+      "position": {
+        "lat": "42.79540065303723",
+        "lng": "-7.338867187500001"
+      }
+    },
+    {
+      "id": "04af",
+      "cityName": "Sarria",
+      "country": "Spain",
+      "date": "2024-02-22T11:41:12.216Z",
+      "notes": "",
+      "position": {
+        "lat": "42.79540065303723",
+        "lng": "-7.338867187500001"
+      }
+    },
+    {
+      "id": "6993",
+      "cityName": "Sarria",
+      "country": "Spain",
+      "date": "2024-02-22T11:41:12.216Z",
+      "notes": "",
+      "position": {
+        "lat": "42.79540065303723",
+        "lng": "-7.338867187500001"
+      }
+    },
+    {
+      "id": "4dcd",
+      "cityName": "Sarria",
+      "country": "Spain",
+      "date": "2024-02-22T11:41:12.216Z",
+      "notes": "",
+      "position": {
+        "lat": "42.79540065303723",
+        "lng": "-7.338867187500001"
+      }
+    },
+    {
+      "id": "cac1",
+      "cityName": "Sarria",
+      "country": "Spain",
+      "date": "2024-02-22T11:41:12.216Z",
+      "notes": "",
+      "position": {
+        "lat": "42.79540065303723",
+        "lng": "-7.338867187500001"
+      }
+    },
+    {
+      "id": "d006",
+      "cityName": "Sarria",
+      "country": "Spain",
+      "date": "2024-02-22T11:41:12.216Z",
+      "notes": "",
+      "position": {
+        "lat": "42.79540065303723",
+        "lng": "-7.338867187500001"
+      }
+    },
+    {
+      "id": "d495",
+      "cityName": "Sarria",
+      "country": "Spain",
+      "date": "2024-02-22T11:41:12.216Z",
+      "notes": "",
+      "position": {
+        "lat": "42.79540065303723",
+        "lng": "-7.338867187500001"
+      }
+    },
+    {
+      "id": "2b9a",
+      "cityName": "Sarria",
+      "country": "Spain",
+      "date": "2024-02-22T11:41:12.216Z",
+      "notes": "",
+      "position": {
+        "lat": "42.79540065303723",
+        "lng": "-7.338867187500001"
+      }
+    },
+    {
+      "id": "e1b2",
+      "cityName": "Sarria",
+      "country": "Spain",
+      "date": "2024-02-22T11:41:12.216Z",
+      "notes": "",
+      "position": {
+        "lat": "42.79540065303723",
+        "lng": "-7.338867187500001"
+      }
+    },
+    {
+      "id": "584a",
+      "cityName": "Sarria",
+      "country": "Spain",
+      "date": "2024-02-22T11:41:12.216Z",
+      "notes": "",
+      "position": {
+        "lat": "42.79540065303723",
+        "lng": "-7.338867187500001"
+      }
+    },
+    {
+      "id": "27f5",
+      "cityName": "Sarria",
+      "country": "Spain",
+      "date": "2024-02-22T11:41:12.216Z",
+      "notes": "",
+      "position": {
+        "lat": "42.79540065303723",
+        "lng": "-7.338867187500001"
+      }
+    },
+    {
+      "id": "675b",
+      "cityName": "Sarria",
+      "country": "Spain",
+      "date": "2024-02-22T11:41:12.216Z",
+      "notes": "",
+      "position": {
+        "lat": "42.79540065303723",
+        "lng": "-7.338867187500001"
+      }
+    },
+    {
+      "id": "99eb",
+      "cityName": "Sarria",
+      "country": "Spain",
+      "date": "2024-02-22T11:41:12.216Z",
+      "notes": "",
+      "position": {
+        "lat": "42.79540065303723",
+        "lng": "-7.338867187500001"
+      }
+    },
+    {
+      "id": "1df5",
+      "cityName": "Sarria",
+      "country": "Spain",
+      "date": "2024-02-22T11:41:12.216Z",
+      "notes": "",
+      "position": {
+        "lat": "42.79540065303723",
+        "lng": "-7.338867187500001"
+      }
+    },
+    {
+      "id": "f05d",
+      "cityName": "Sarria",
+      "country": "Spain",
+      "date": "2024-02-22T11:41:12.216Z",
+      "notes": "",
+      "position": {
+        "lat": "42.79540065303723",
+        "lng": "-7.338867187500001"
+      }
+    },
+    {
+      "id": "d7fa",
+      "cityName": "Sarria",
+      "country": "Spain",
+      "date": "2024-02-22T11:41:12.216Z",
+      "notes": "",
+      "position": {
+        "lat": "42.79540065303723",
+        "lng": "-7.338867187500001"
+      }
+    },
+    {
+      "id": "76d8",
+      "cityName": "Sarria",
+      "country": "Spain",
+      "date": "2024-02-22T11:41:12.216Z",
+      "notes": "",
+      "position": {
+        "lat": "42.79540065303723",
+        "lng": "-7.338867187500001"
+      }
+    },
+    {
+      "id": "4ed2",
+      "cityName": "Sarria",
+      "country": "Spain",
+      "date": "2024-02-22T11:41:12.216Z",
+      "notes": "",
+      "position": {
+        "lat": "42.79540065303723",
+        "lng": "-7.338867187500001"
+      }
+    },
+    {
+      "id": "7911",
+      "cityName": "Sarria",
+      "country": "Spain",
+      "date": "2024-02-22T11:41:12.216Z",
+      "notes": "",
+      "position": {
+        "lat": "42.79540065303723",
+        "lng": "-7.338867187500001"
+      }
+    },
+    {
+      "id": "decd",
+      "cityName": "Sarria",
+      "country": "Spain",
+      "date": "2024-02-22T11:41:12.216Z",
+      "notes": "",
+      "position": {
+        "lat": "42.79540065303723",
+        "lng": "-7.338867187500001"
+      }
+    },
+    {
+      "id": "934a",
+      "cityName": "Sarria",
+      "country": "Spain",
+      "date": "2024-02-22T11:41:12.216Z",
+      "notes": "",
+      "position": {
+        "lat": "42.79540065303723",
+        "lng": "-7.338867187500001"
+      }
+    },
+    {
+      "id": "34f1",
+      "cityName": "Ciudad Rodrigo",
+      "country": "Spain",
+      "date": "2024-02-22T11:41:12.216Z",
+      "notes": "",
+      "position": {
+        "lat": "40.54720023441049",
+        "lng": "-6.5478515625"
+      }
+    },
+    {
+      "id": "abd1",
+      "cityName": "Azuaga",
+      "country": "Spain",
+      "date": "2024-02-22T11:41:12.216Z",
+      "notes": "",
+      "position": {
+        "lat": "38.22091976683121",
+        "lng": "-5.756835937500001"
+      }
+    }
+  ]
+}
